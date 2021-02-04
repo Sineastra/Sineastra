@@ -16,7 +16,7 @@
 - <hr>
 
 <h3 align="center"><i>Here are some things that are...</i></h3>
-<p align="center"><img/></p>
+<p align="center"><img src="SDA-Logo-2015.png"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
