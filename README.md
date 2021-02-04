@@ -22,7 +22,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
-<!--START_SECTION:waka-->
+- <hr>
+
+<h3><i>This weeks stats:</i></h3>
+
+  <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
@@ -33,3 +37,19 @@ No Activity tracked this Week
 writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catchy__  
 
 - 🌱 Learning ReactJS
+
+You can find me on [![Twitter][1.2]][1], [![Facebook][2.2]][2], [![Instagram][3.2]][3] or on [![LinkedIn][4.2]][4].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png(twitter icon)
+[2.2]: pngegg.png (LinkedIn icon)
+[3.2]: pngegg (1).png (Facebook icon)
+[4.2]: pngegg (2).png (Instagram icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.facebook.com/XartemisEntreriX
+[4]: https://www.instagram.com/o_kostadinov92/
