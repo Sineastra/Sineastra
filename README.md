@@ -31,7 +31,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-- <hr>
+<hr>
 
 - 🔭 I’m currently working on __*JavaScript Advanced*__ course along with
 writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catchy__  
