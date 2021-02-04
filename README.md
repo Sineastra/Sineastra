@@ -38,11 +38,11 @@ writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catch
 
 - 🌱 Learning ReactJS
 
-You can find me on [![Twitter][1.2]][1], [![Facebook][3.2]][3], [![Instagram][4.2]][4] or on [![LinkedIn][2.2]][2].
+### *You can find me on* [![Twitter][1.2]][1], [![Facebook][3.2]][3], [![Instagram][4.2]][4] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
+[1.2]: twitter.png (twitter icon)
 [2.2]: pngegg.png (LinkedIn icon)
 [3.2]: facebook.png (Facebook icon)
 [4.2]: instagram.png (Instagram icon)
