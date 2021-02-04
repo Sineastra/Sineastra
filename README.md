@@ -4,17 +4,23 @@
 
 - <hr>
 
-### <p align="center"> :wave: __*Welcome to my little private island*__ :wave: </p>
-
-<h3 align="center"><i>Here are my...<i></h3>
+<h2 align="center"> :wave: <i>Welcome to my little private island</i> :wave: </h2>
+<h3 align="center"><i>Magical stuff happens here every minute or so</i></h3>
+<h4 align="center"><i>We got few loose unicorns here and there... :unicorn:</i></h4>
+<h4 align="center"><i>The most colorful :parrot: in the net</i></h4>
+<h4 align="center"><i>One old but not gold :dragon:</i></h4>
+<h4 align="center"><i>And many... :cat2:</i></h4>
+<h4 align="center"><i>Meow</i></h4>
+<h4 align="center"><i>:arrow_down:</i></h4>
 
 - <hr>
-<p align="center"><img src="SDA-Logo-2015.png"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gruvbox"></p>
 
-- <hr>
+<h3 align="center"><i>Here are some things that are...</i></h3>
+<p align="center"><img src="SDA-Logo-2015.png"/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox&layout=compact)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
 
 - 🔭 I’m currently working on __*JavaScript Advanced*__ course along with
