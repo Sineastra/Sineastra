@@ -22,8 +22,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
-- <hr>
-
+<h4 align="center"><i>As well as..</i></h4>
 <h3><i>This weeks stats:</i></h3>
 
   <!--START_SECTION:waka-->
@@ -32,13 +31,14 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+- <hr>
 
 - 🔭 I’m currently working on __*JavaScript Advanced*__ course along with
 writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catchy__  
 
 - 🌱 Learning ReactJS
 
-### *You can find me on* [![Twitter][1.2]][1], [![Facebook][3.2]][3], [![Instagram][4.2]][4] or on [![LinkedIn][2.2]][2].
+### *You can find me on* [![Twitter][1.2]][1], [![Instagram][4.2]][4], [![Facebook][3.2]][3] or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
