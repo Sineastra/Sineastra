@@ -38,7 +38,7 @@ writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catch
 
 - 🌱 Learning ReactJS
 
-### *You can find me on* [![Twitter][1.2]][1], [![Instagram][4.2]][4], [![Facebook][3.2]][3] or [![LinkedIn][2.2]][2].
+### *If you search for me (which i don't know why you would) you can find me on* [![Twitter][1.2]][1], [![Instagram][4.2]][4], [![Facebook][3.2]][3] or [![LinkedIn][2.2]][2]. Occasionally
 
 <!-- Icons -->
 
@@ -49,7 +49,7 @@ writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catch
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/Sineastra
+[2]: https://www.linkedin.com/in/orfey-kostadinov-a152131b6/
 [3]: https://www.facebook.com/XartemisEntreriX
 [4]: https://www.instagram.com/o_kostadinov92/
