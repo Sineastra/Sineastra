@@ -2,11 +2,18 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" /></p>
 
+- <hr>
+
 ### <p align="center"> :wave: __*Welcome to my little private island*__ :wave: </p>
+
+<h3 align="center"><i>Here are my...<i></h3>
+
+- <hr>
+<p align="center"><img src="SDA-Logo-2015.png"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gruvbox"></p>
 
 - <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gruvbox) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox&layout=compact)
 
 
