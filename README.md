@@ -22,6 +22,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 - 🔭 I’m currently working on __*JavaScript Advanced*__ course along with
 writing __*JS Algorithms*__ and Focused on __*ReactJS Ecommerce App*__ - __catchy__  
