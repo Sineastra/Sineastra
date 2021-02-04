@@ -23,6 +23,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineastra&show_icons=true&theme=gruvbox"/></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
