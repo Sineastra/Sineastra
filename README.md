@@ -1,4 +1,4 @@
-<h1 align="center"--=>Hi there! :upside_down_face:</h1>
+<h1 align="center"--=>Hi there! :wave:</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" /></p>
 
