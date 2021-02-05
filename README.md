@@ -25,10 +25,7 @@
 <h4 align="center"><i>As well as..</i></h4>
 <h3><i>This weeks stats:</i></h3>
 
-  <!--START_SECTION:waka-->
-```text
-
-```
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <hr>
