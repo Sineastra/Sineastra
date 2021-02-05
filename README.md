@@ -26,9 +26,6 @@
 <h3><i>This weeks stats:</i></h3>
 
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
 
 <hr>
