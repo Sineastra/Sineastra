@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
 JavaScript   7 hrs 15 mins   ██████████████████████░░░   87.95 % 
 HTML         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
